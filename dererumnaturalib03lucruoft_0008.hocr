@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dererumnaturalib03lucruoft_0008.png"; bbox 0 0 1872 3002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 963 2382 1092 2429">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 938 2382 1092 2429">
+     <span class='ocr_line' id='line_1_1' title="bbox 963 2382 1092 2429; baseline -0.013 -0.325"><span class='ocrx_word' id='word_1_1' title='bbox 963 2411 972 2429; x_wconf 67' lang='grc' dir='ltr'><strong><em>Δ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 985 2382 1092 2429; x_wconf 31' lang='lat' dir='ltr'>{CR}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 497 2476 1383 2623">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 497 2476 1383 2622">
+     <span class='ocr_line' id='line_1_2' title="bbox 743 2476 1172 2519; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 743 2477 1013 2519; x_wconf 55' lang='lat' dir='ltr'>:minarum</span> <span class='ocrx_word' id='word_1_4' title='bbox 1042 2476 1172 2515; x_wconf 50' lang='lat' dir='ltr'>sels)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 497 2537 1383 2623; baseline -0.001 -8"><span class='ocrx_word' id='word_1_5' title='bbox 497 2537 772 2622; x_wconf 53' lang='lat' dir='ltr'>staff]</span> <span class='ocrx_word' id='word_1_6' title='bbox 785 2560 947 2615; x_wconf 53' lang='lat' dir='ltr'>{w}</span> <span class='ocrx_word' id='word_1_7' title='bbox 995 2557 1383 2623; x_wconf 50' lang='lat' dir='ltr'>‹wastaff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1872 3002">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1872 3002">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1872 3002; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1872 3002; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
